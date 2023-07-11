@@ -1,6 +1,0 @@
-{
-"version":1,
-"partitions":[
-{"topic":"k8s-logs-nginx-ingress","partition":0,"replicas":[1007]}
-]
-}
